@@ -13,8 +13,8 @@ Responde a la entrada de un numero binario de 4 entradas y da 7 salidas
 
 ## How to test
 
-Explain how to use your project
+Comparas la selección del numero binario con la activación de las salidas
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your project Display 7 segmentos 
